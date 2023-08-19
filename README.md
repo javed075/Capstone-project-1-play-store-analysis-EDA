@@ -1,8 +1,8 @@
 # Capstone-project-1-play-store-analysis-EDA
 # Problem Statement
 To explore and analyze the data to discover key factors responsible for app engagement and success. Our mission is to assist Android developers in understanding what is the motivating factor for people to download an app. Finding out what influences a person's decision to download an app will be helpful as well.
-**Business Objectives Through Google Play Store Data Analysis**
 
+# Business Objectives Through Google Play Store Data Analysis
 This repository focuses on the exploration and analysis of data from the Google Play Store to achieve various key business objectives. By delving into the wealth of information available, we aim to unlock valuable insights that can guide strategic decisions and drive success in the app market. Some potential business objectives that can be achieved through this data analysis include:
 
 1. **Identifying App Trends and Opportunities:**

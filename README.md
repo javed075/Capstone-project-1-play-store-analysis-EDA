@@ -34,5 +34,9 @@ By engaging in this data-driven exploration, we aim to provide businesses with a
 - **Current Ver**: Specifies the current version of the app, relevant for feature tracking.
 - **Android Ver**: The minimum Android version required to run the app, guiding compatibility considerations.
 
+By above to method we know that we have 13 column 12 have object data type and one column that is Rating has float data type.
+by describe method we calculate the mean, count,standard deviation,min value,max value and percentile value.
+The variation between avg and max value is very lage. it indicate that there is must present outliers.
+
 
 

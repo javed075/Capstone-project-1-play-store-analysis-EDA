@@ -20,6 +20,8 @@ This repository focuses on the exploration and analysis of data from the Google 
 By engaging in this data-driven exploration, we aim to provide businesses with a clearer understanding of their app users, while also empowering them to make informed decisions that contribute to the growth and success of their app ventures.
 
 # Variables-
+We can see that our first data set contains 10841 rows and 13 columns.
+
 - **App**: The name of the application listed on the Google Play Store.
 - **Category**: The thematic classification of the app, aiding users in navigation and discovery.
 - **Rating**: The average user rating given to the app, reflecting its perceived quality.

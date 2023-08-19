@@ -38,5 +38,28 @@ By above to method we know that we have 13 column 12 have object data type and o
 by describe method we calculate the mean, count,standard deviation,min value,max value and percentile value.
 The variation between avg and max value is very lage. it indicate that there is must present outliers.
 
+# Data Wrangling
+Data wrangling in Python involves transforming and preparing raw data into a structured, usable format for analysis. This process encompasses tasks like cleaning, handling missing values, formatting, merging datasets, and feature engineering. Libraries like Pandas provide powerful tools to manipulate data frames, perform filtering, aggregation, and create visualizations. Effective data wrangling ensures data quality, facilitating meaningful insights and informed decision-making in subsequent analyses.
+
+Sure, here's the data wrangling process you described, broken down into bullet points:
+
+1. **Handling Null Values in Rating Column:**
+   - Replace null values in the "Rating" column with the median of that column.
+
+2. **Handling Null Values in Other Columns:**
+   - Replace null values in other columns with the previous non-null value of that column.
+
+3. **Converting Data Types:**
+   - Convert the following columns' data types to appropriate types:
+     - **Size:**
+       - Since the "Size" column contains values in both "M" (megabytes) and "K" (kilobytes), as well as "varies with device," convert the values to megabytes (MB) for uniformity.
+       - Convert the column to float data type.
+     - **Installs:**
+       - Remove any "+" and "," symbols from the "Installs" column and convert it to a float data type.
+     - **Price:**
+       - Remove the "$" symbol from the "Price" column and convert it to a float data type.
+
+# Exploratory Data Analysis:
+Exploratory Data Analysis (EDA) in Python involves analyzing and summarizing data to understand its main characteristics, relationships, and patterns. It employs various techniques such as data visualization, statistical measures, and data manipulation to gain insights and identify potential trends or anomalies within the dataset. EDA helps researchers and analysts make informed decisions about data preprocessing, feature selection, and modeling strategies by revealing hidden insights that aid in forming hypotheses and guiding further investigation.
 
 
